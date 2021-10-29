@@ -828,10 +828,4 @@ ol, ul {
     line-height: 30px;
     color: #2A4177;
   }
-
-  .article__tag > span {
-    font-size: 8px;
-    width: 80px;
-    padding: 20px 25px !important;
-  }
 }
