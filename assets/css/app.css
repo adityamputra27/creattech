@@ -152,7 +152,7 @@ ol, ul {
   background-image: url("../images/banner.svg");
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 85vh !important;
+  min-height: 100vh !important;
 }
 
 .skeleton {
