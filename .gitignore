@@ -2,5 +2,5 @@ node_modules/*
 scss/*
 package-lock.json
 package.json
-README.md
+# README.md
 gulpfile.js
