@@ -43,7 +43,7 @@ body {
   right: 0;
   z-index: 2000;
   padding-top: 20px;
-  background: #2A4177;
+  background: #ffffff;
   height: 100vh;
   transform: translateX(100%);
   box-shadow: -10px 0 20px -10px rgba(0, 0, 0, 0.1);
@@ -80,7 +80,7 @@ body {
   line-height: 1;
   cursor: pointer;
   transition: 0.3s all ease;
-  color: #ffffff !important;
+  color: #2A4177 !important;
 }
 
 .mobile__view .mobile__view-body {
@@ -96,15 +96,14 @@ body {
   position: relative;
 }
 
-.mobile__view .mobile__clone-view li a {
+.mobile__view .mobile__clone-view a {
   padding: 25px 20px;
   display: block;
   position: relative;
-  color: #ffffff !important;
+  color: #2A4177 !important;
   text-align: center;
   font-size: 20px;
   font-weight: 600;
-  z-index: 99;
 }
 
 ol, ul {
@@ -134,7 +133,7 @@ ol, ul {
 .nav-link {
   font-size: 16px;
   line-height: 22px;
-  color: #ffffff;
+  color: #2A4177 !important;
 }
 
 .fa-bars {
