@@ -220,7 +220,7 @@ ol, ul {
 }
 
 #search .search__content {
-  padding: 100px 0 100px 0;
+  padding: 80px;
 }
 #search .search__content .search__title {
   font-weight: bold;
@@ -832,6 +832,6 @@ ol, ul {
   .article__tag > span {
     font-size: 8px;
     width: 80px;
-    padding: 15px 15px !important;
+    padding: 20px 25px !important;
   }
 }
