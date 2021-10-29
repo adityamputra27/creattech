@@ -148,6 +148,13 @@ ol, ul {
   min-height: 100vh !important;
 }
 
+.background-search {
+  background-image: url("../images/banner.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 85vh !important;
+}
+
 .skeleton {
   position: relative;
   background: #e2e2e2;
@@ -220,7 +227,7 @@ ol, ul {
 }
 
 #search .search__content {
-  padding: 80px;
+  padding: 70px 0 80px 0;
 }
 #search .search__content .search__title {
   font-weight: bold;
@@ -772,6 +779,10 @@ ol, ul {
   }
 
   .background-banner {
+    padding-top: 0.5rem;
+  }
+
+  .background-search {
     padding-top: 0.5rem;
   }
 }
